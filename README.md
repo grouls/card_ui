@@ -1,1 +1,1 @@
-# card_ui
+# Based on Epic Reacts tutorial Fluid Hover Cards with Tailwind CSS 
